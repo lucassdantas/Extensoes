@@ -6,6 +6,7 @@
         "default_title":"titulo",
         "default_popup":"index.html"
     },
-    "manifest_version": 2
+    "permissions":["activeTab", "scripting"],
+    "manifest_version": 3
     
 }
