@@ -1,0 +1,11 @@
+{
+    "name": "Extensao01",
+    "version": "1.0",
+    "description": "Minha primeira extensão",
+    "browser_action":{
+        "default_title":"titulo",
+        "default_popup":"index.html"
+    },
+    "manifest_version": 2
+    
+}
